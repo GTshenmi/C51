@@ -1,2 +1,2 @@
-# -C51-
-运用定时器中断计时，并在数码管上显示
+# Electronic Clock
+    ------Based On C51
