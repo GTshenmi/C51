@@ -16,7 +16,7 @@
 
 |   时钟    | 温度 |  
 |:---------------:|:---------------:|  
-|![image4](https://github.com/GTshenmi/Digital-Signal-Process/blob/main/Display%20Image/3.png)|![image3](https://github.com/GTshenmi/Digital-Signal-Process/blob/main/Display%20Image/4.png)|  
+|![image4](https://github.com/GTshenmi/Digital-Signal-Process/blob/main/Display%20Image/0.png)|![image3](https://github.com/GTshenmi/Digital-Signal-Process/blob/main/Display%20Image/0.png)|  
 
 #### `项目文件说明`
 -----------------------------------------------------------------------------------------------
